@@ -6,7 +6,6 @@ Protocols and labware specifications for the KingFisher Flex DNA extraction robo
 
 ## External links
 
-* [KingFisher Flex Software and Protocols](https://www.thermofisher.com/us/en/home/life-science/dna-rna-purification-analysis/automated-purification-extraction/kingfisher-flex.html)
-* [Opentrons Protocol Library](https://protocols.opentrons.com/)
-* [Theme song](https://www.youtube.com/watch?v=2IPAOxrH7Ro)
-
+* [KingFisher Flex Software and Protocols](https://www.thermofisher.com/us/en/home/life-science/dna-rna-purification-analysis/automated-purification-extraction/kingfisher-flex.html){target="_blank"}
+* [Opentrons Protocol Library](https://protocols.opentrons.com/){target="_blank"}
+* [Theme song](https://www.youtube.com/watch?v=2IPAOxrH7Ro){target="_blank"}
